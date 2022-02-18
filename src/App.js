@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import helloThere from './hello-there.jpg';
 
 function App() {
   return (
-    <div className="App">
-    <p>Test</p>
-    </div>
+      <div className="App">
+        <img src={helloThere} alt="Hello There"/>
+      </div>
   );
 }
 
