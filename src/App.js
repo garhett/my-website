@@ -6,7 +6,7 @@ function App() {
       <div className="App">
         <img src={helloThere} alt="Hello There"/>
         <p>Welcome to the greatest site on the interweb.</p>
-        <p>Please enjoy a pleasent greeting from Obi-wan while I finish the site.</p>
+        <p>Please enjoy a pleasant greeting from Obi-wan while I finish the site.</p>
       </div>
   );
 }
